@@ -1,0 +1,2 @@
+# AI-DRIVEN-CAMPUS-PLACEMENT-REGISTRATION-AND-RESUME-MATCHING-PLATFORM-WITH-JOB-RECOMMENDATION-ENGINE
+Campus placement activities involve managing student registrations, resume screening, eligibility verification, and matching candidates with suitable job opportunities. Traditional placement processes rely heavily on manual evaluation, making them time-consuming and less effective in identifying the best candidates for available positions.
